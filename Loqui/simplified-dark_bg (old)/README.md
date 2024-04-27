@@ -1,2 +1,2 @@
 ## Preview
-![Preview Image](https://github.com/rotgruengelb/some-badges/blob/main/Loqui/simplified-dark_bg/preview.png?raw=true)
+![Preview Image](https://github.com/rotgruengelb/some-badges/blob/main/Loqui/simplified-dark_bg%20(old)/preview.png?raw=true)
